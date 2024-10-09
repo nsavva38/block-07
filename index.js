@@ -14,8 +14,8 @@ alert(`You have received this message because you have been chosen to open an im
 Here is the secret combination:`);
 
 
-lockNumb1 = 1 + 5 + 4;
-lockNumb2 = 10 * 2 * 2;
-lockNumb3 =  (80 / 2) - 1;
+let lockNumb1 = 1 + 5 + 4;
+let lockNumb2 = 10 * 2 * 2;
+let lockNumb3 =  (80 / 2) - 1;
 
 alert(`${lockNumb1} - ${lockNumb2} - ${lockNumb3}`);
