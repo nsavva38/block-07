@@ -17,4 +17,4 @@ lockNumb1 = numb1 + numb2 + numb3;
 lockNumb2 = numb3 - numb1 - numb2;
 lockNumb3 =  numb3 * (numb2 / numb1);
 
-alert(`${lockNumb1}, ${lockNumb2}, ${lockNumb3} `);
+alert(`${lockNumb1}, ${lockNumb2}, ${lockNumb3}`);
