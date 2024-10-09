@@ -1,3 +1,11 @@
+
+
+// tell user about vault
+// create constant variables for given numbers
+// create new variables that use constants and arithmatic
+// - do this three times
+// display to user the combination of the three variables ( non constants )
+
 alert(`You have received this message because you have been chosen to open an important vault. 
 Here is the secret combination:`);
 
